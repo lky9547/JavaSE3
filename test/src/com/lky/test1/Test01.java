@@ -22,5 +22,6 @@ public class Test01 {
         Test01 test01 = new Test01();
         int computing = test01.computing(6, 6);
         System.out.println(computing);
+        System.out.println(111);
     }
 }
