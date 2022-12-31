@@ -11,5 +11,6 @@ public class Test {
         System.out.println("hello git1");
         System.out.println("hello git1");
         System.out.println("hello git1");
+         System.out.println("gitee update");
     }
 }
